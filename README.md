@@ -10,7 +10,7 @@ Penjelasan Umum
 
 Web Service yang dibuat yaitu web service dengan tema Sistem Informasi Pengunjung Museum Lampung, yang bertujuan untuk mendata pengunjung yang datang di museum lampung. Web Service ini sudah mendukung operasi CRUD yaitu create, read, update, dan delete.
 
-Cara mengjalankan
+Cara menjalankan
 1. Mendownload Composer dan XAMPP dengan php versi 8.0.11
 2. Simpan File di folder xampp -> htdocs
 3. Hidupkan Apache dan Mysql pada XAMPP
